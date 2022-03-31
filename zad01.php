@@ -1,4 +1,2 @@
 <?php
 print "Hello world!";
-
-
